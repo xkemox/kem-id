@@ -1,0 +1,25 @@
+{
+  "name": "@xkemox/kem-id",
+  "version": "1.0.0",
+  "description": "Helo tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkemox/kem-id.git"
+  },
+  "keywords": [
+    "Tut"
+  ],
+  "author": "kemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkemox/kem-id/issues"
+  },
+  "homepage": "https://github.com/xkemox/kem-id#readme",
+  "dependencies": {
+    "kem-id": "^1.0.0"
+  }
+}
