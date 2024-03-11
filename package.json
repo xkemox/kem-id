@@ -20,10 +20,11 @@
   },
   "homepage": "https://github.com/xkemox/kem-id#readme",
   "dependencies": {
-    "kem-id": "^1.0.0"
-    "belajargit":"^2.3.3"
-    "zackaslana": "^2.2.3"
-    "vaanguard": "^2.3.2"
-    "riweuheuyyy":"4.2.4"
+    "kem-id": "^1.0.0",
+    "exsw-o": "^0.1.0",
+    "belajargit":"^2.3.3",
+    "zackaslana": "^2.2.3",
+    "vaanguard": "^2.3.2",
+    "riweuheuyyy":"4.2.4",
   }
 }
